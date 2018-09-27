@@ -22,11 +22,11 @@
       "build" : "",
       "build_descr" : "",
       "data" : "data",
-      "description" : "",
+      "description" : "silk road (silkroad_l1)",
       "family" : {
-         "description" : "",
+         "description" : "china mobile",
          "gparms" : {},
-         "name" : "",
+         "name" : "cmcc",
          "shells" : {}
       },
       "fullconf" : "fullconf",
@@ -39,7 +39,7 @@
             "shells" : {}
          }
       ],
-      "name" : "",
+      "name" : "silkroad_l1",
       "release_notes" : [],
       "shells" : {},
       "testtypes" : [
