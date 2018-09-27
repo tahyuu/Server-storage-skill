@@ -1,0 +1,77 @@
+{
+   "files" : {},
+   "ignore" : {
+      "core" : {
+         "\\/" : [
+            "\\.git*"
+         ]
+      },
+      "custom" : {
+         "\\/" : [
+            "\\.git*"
+         ]
+      },
+      "generic" : {
+         "\\/" : [
+            "\\.git*",
+            "template\\.*"
+         ]
+      }
+   },
+   "release" : {
+      "build" : "",
+      "build_descr" : "",
+      "data" : "data",
+      "description" : "",
+      "family" : {
+         "description" : "",
+         "gparms" : {},
+         "name" : "",
+         "shells" : {}
+      },
+      "fullconf" : "fullconf",
+      "gparms" : {},
+      "models" : [
+         {
+            "description" : "",
+            "gparms" : {},
+            "name" : "",
+            "shells" : {}
+         }
+      ],
+      "name" : "",
+      "release_notes" : [],
+      "shells" : {},
+      "testtypes" : [
+         {
+            "description" : "",
+            "gparms" : {},
+            "name" : "",
+            "shells" : {}
+         }
+      ]
+   },
+   "sources" : {
+      "core" : {
+         "branch" : "",
+         "commit_date" : "",
+         "commit_sha" : "",
+         "tag" : "",
+         "url" : ""
+      },
+      "custom" : {
+         "branch" : "",
+         "commit_date" : "",
+         "commit_sha" : "",
+         "tag" : "",
+         "url" : "https://github.com/tahyuu/Server-storage-skill.git"
+      },
+      "generic" : {
+         "branch" : "",
+         "commit_date" : "",
+         "commit_sha" : "",
+         "tag" : "",
+         "url" : ""
+      }
+   }
+}
